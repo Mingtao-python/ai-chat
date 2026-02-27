@@ -1,13 +1,13 @@
 # AI Chat CLI
 
 Overview: 
-A code to access AI
+  A code to access AI
 
 Program: 
-python
+  python
 
-#Need: 
-API code
+Need: 
+  API code
 
-#Why I build this: 
-I am a AI learner
+Why I build this: 
+  I am a AI learner
